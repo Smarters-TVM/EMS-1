@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ems-ui"
+  "defaultProject": "ems-ui",
+  "cli": {
+    "analytics": "2c240efc-f5e1-46fa-bb05-8c84ca7bac7d"
+  }
 }
